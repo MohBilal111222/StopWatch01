@@ -77,10 +77,6 @@ function stopRainbow() {
 
 
 
-
-
-
-
 document.getElementById("startBtn").addEventListener("click", startStopwatch);
 document.getElementById("stopBtn").addEventListener("click", stopStopwatch);
 document.getElementById("resetBtn").addEventListener("click", resetStopwatch);
@@ -89,5 +85,5 @@ document.getElementById("resetBtn").addEventListener("click", resetStopwatch);
 
 
 
-
-
+// inner-html kese krty hain bhaie
+// ajeeb scene hai
